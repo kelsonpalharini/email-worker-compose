@@ -49,7 +49,7 @@ And if nothing wrong happens, you can access this project by [http://localhost:8
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [Docker](https://www.docker.com/) - Containers
+- [Docker](https://www.docker.com/) - Container
 - [Redis](https://redis.io/) - Message Broker
 - [Python](https://www.python.org/) - Development
 - [PostgreSQL](https://www.postgresql.org/) - Database
