@@ -4,19 +4,19 @@
     <br> 
 </p>
 
-## 📝 Table of Contents
+## Table of Contents
 
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Built Using](#built_using)
 
-## 🧐 About <a name = "about"></a>
+## About <a name = "about"></a>
 
 I created this example to deepen my comprehension of Docker with this course at Udemy:
 
 [Docker: Ferramenta essencial para Desenvolvedores(Docker: Essential tool for developers)](https://www.udemy.com/course/curso-docker/)
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+## Getting Started <a name = "getting_started"></a>
 
 These instructions will get you a copy of the project up and running on your local machine.
 
@@ -47,7 +47,7 @@ docker-compose logs -f -t
 
 And if nothing wrong happens, you can access this project by [http://localhost:80](http://localhost:80).
 
-## ⛏️ Built Using <a name = "built_using"></a>
+## Built Using <a name = "built_using"></a>
 
 - [Docker](https://www.docker.com/) - Container
 - [Redis](https://redis.io/) - Message Broker
